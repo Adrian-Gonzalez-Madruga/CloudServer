@@ -20,4 +20,4 @@ The Cloud Server is ready to run with no setup after downloading repository. Run
 
 ## Authors
 
-* **[Adrian Gonzalez Madruga](https://github.com/Adrian-Gonzalez-Madruga)** - *Creation, Debugging, and Managment*
+* **[Adrian Gonzalez Madruga](https://github.com/Adrian-Gonzalez-Madruga)** - *Creation, Debugging, Managment and Full Implementation of Server*
